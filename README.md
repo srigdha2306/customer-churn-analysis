@@ -45,7 +45,7 @@ customer-churn-analytics/
 ├── notebooks/                       # Exploratory analysis notebooks
 │
 ├── sql/
-│   └── 01_basic_analysis.sql        # SQL analysis and validation
+│   └── analysis.sql        # SQL analysis and validation
 │
 ├── src/
 │   ├── import_to_sqlite.py          # Loads CSV data into SQLite
